@@ -1,4 +1,4 @@
-Create your own Project on Agora-app-builder
+Create your own Project on Agora-app-builder then upload Package.json file
 == Agora App Builder ==
 Instructions to run your project:
 1. Open a terminal inside this folder
